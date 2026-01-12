@@ -19,6 +19,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
