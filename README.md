@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 ## Hash Table
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
