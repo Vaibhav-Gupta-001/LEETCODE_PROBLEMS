@@ -12,10 +12,12 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 ## Math
 |  |
