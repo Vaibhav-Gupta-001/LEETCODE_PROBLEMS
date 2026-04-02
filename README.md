@@ -65,4 +65,5 @@
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/Vaibhav-Gupta-001/LEETCODE_PROBLEMS/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
